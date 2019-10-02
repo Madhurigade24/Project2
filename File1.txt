@@ -1,3 +1,4 @@
 Hellow i have created new file
 hellow i am another devloper who has changes
+Hello i am doing changes  when other developer changes
 hellow i am another devloper who has again made the chane when u are also making local changes
